@@ -42,19 +42,9 @@ src="https://img.shields.io/twitter/follow/shreyacasmalert?logo=twitter&style=fo
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/ShreyaPrasad1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/-shreya-prasad/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@shreyapd06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shreyacasmalert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ShreyaPrasad1209"><img src="https://github-readme-stats.vercel.app/api?username=ShreyaPrasad1209&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="ShreyaPrasad1209's GitHub stats" /></a>
-
-<a href="http://www.github.com/ShreyaPrasad1209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaPrasad1209&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ShreyaPrasad1209"><img src="https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Book your time with me
 
