@@ -13,13 +13,11 @@ Software Engineer
    Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
 * 🌍  I'm based in India
-* 🧠  I'm learning React
+* 🧠  I'm learning python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow xD
 
-<a href="https://www.twitter.com/shreyacasmalert" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shreyacasmalert?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
-/></a>
+
 
 ### Skills
 
@@ -46,9 +44,6 @@ src="https://img.shields.io/twitter/follow/shreyacasmalert?logo=twitter&style=fo
 
 
 
-### Book your time with me
-
-[Shreya's Topmate Profile](https://topmate.io/shreyaprasad)
 
 
 
