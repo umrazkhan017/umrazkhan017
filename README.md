@@ -6,7 +6,7 @@ Software Engineer
 
 
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="160px" width="160px"> 
+<p align="center"> <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="300px" width="200px"> 
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
